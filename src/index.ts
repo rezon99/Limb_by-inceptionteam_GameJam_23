@@ -6,7 +6,7 @@ import { height, sceneSizeX, sceneSizeZ, radiusMultiplier } from './resources'
 export function main() {
 
 	//#region SkyBox
-	const folderNumber = "4"
+	const folderNumber = "7"
 
 	//root
 	let skyboxRoot = engine.addEntity()
